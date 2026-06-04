@@ -1,0 +1,33 @@
+herculean-technologies/
+│
+├── app/
+│   ├── page.tsx
+│   ├── services/
+│   ├── why-herculean/
+│   ├── case-studies/
+│   ├── contact/
+│   ├── api/
+│   │   └── lead/
+│   ├── sitemap.ts
+│   └── robots.ts
+│
+├── components/
+│   ├── Header.tsx
+│   ├── Footer.tsx
+│   ├── Hero.tsx
+│   ├── Stats.tsx
+│   ├── PartnerGrid.tsx
+│   ├── CaseStudyCard.tsx
+│   ├── LeadForm.tsx
+│   └── CTA.tsx
+│
+├── public/
+│   ├── logo.png
+│   ├── og-image.jpg
+│   └── partners/
+│
+├── styles/
+├── lib/
+├── tailwind.config.ts
+├── next.config.ts
+└── package.json
